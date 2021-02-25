@@ -8,7 +8,7 @@ icon: "fas fa-sync"
 
 # How to synchronize between devices
 
-For synchronization, AntennaPod uses the free service gpodder.net. In order to synchronize your clients, you need to create an account there.
+For synchronization, AntennaPod uses the free service [gpodder.net](https://gpodder.net). In order to synchronize your clients, you need to create an account there.
 
 - After you created the account, we suggest to create a device on gpodder.net/devices/ for each client that you use:  
   ![devices](/assets/images/documentation/gpodder-devices.png)
